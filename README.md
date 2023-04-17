@@ -20,4 +20,4 @@
 </ul>
 
 <h4>Design</h4>
-<img align="left" src="">
+<img align="left" src="https://github.com/vamsi-krishnakOO7/Image-Editor-using-HTML-CSS-and-JS/blob/main/Editor_Page.png">
